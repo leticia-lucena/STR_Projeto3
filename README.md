@@ -15,4 +15,5 @@ O projeto tem como objetivo desenvolver um sistema que simule a interação entr
 - Interface com o Usuário: a comunicação entre o sistema e os usuários é feita por meio de mensagens que indicam o estado atual dos trens e carros (aproximando-se, cruzando e cruzado) e a situação atual do cruzamento.
 
 ## Demonstração
-O vídeo de demonstração do projeto pode ser encontrado no link: 
+O vídeo de demonstração do projeto pode ser encontrado no link: https://youtu.be/E3Y8D3l7DIE
+
